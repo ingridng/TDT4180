@@ -1,0 +1,35 @@
+
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="444.0" prefWidth="265.0" xmlns="http://javafx.com/javafx/8" >
+    <children>
+
+
+        <Ellipse fill="#00000000" layoutX="250.0" layoutY="102.0" radiusX="53.0" radiusY="51.0" stroke="BLACK" strokeType="INSIDE"  />
+
+        <Line endX="0.0" endY="50.0" layoutX="150.0" layoutY="207.0" startX="100" startY="-10"/>
+        <Line endX="200.0" endY="50.0" layoutX="150.0" layoutY="207.0" startX="100" startY="-10"/>
+
+        <Line endX="100" endY="60.0" layoutX="150.0" layoutY="207.0" startY="-53" startX="100"/>
+
+        <Line endX="0.0" endY="190.0" layoutX="150.0" layoutY="207.0" startX="100" startY="60"/>
+        <Line endX="200.0" endY="190.0" layoutX="150.0" layoutY="207.0" startX="100" startY="60"/>
+
+        <Line endX="-100" endY="-200.0" layoutX="150.0" layoutY="207.0" startY="200" startX="-100"/>
+        <Line endX="100" endY="-200.0" layoutX="150.0" layoutY="207.0" startY="-200" startX="-100"/>
+
+        <Line endX="100" endY="-200.0" layoutX="150.0" layoutY="207.0" startY="-155" startX="100"/>
+
+        <Line endX="110.0" endY="-130.0" layoutX="150.0" layoutY="207.0" startX="130" startY="-110"/>
+        <Line endX="130.0" endY="-130.0" layoutX="150.0" layoutY="207.0" startX="110" startY="-110"/>
+
+        <Line endX="70.0" endY="-130.0" layoutX="150.0" layoutY="207.0" startX="90" startY="-110"/>
+        <Line endX="90" endY="-130.0" layoutX="150.0" layoutY="207.0" startX="70" startY="-110"/>
+
+        <Line endX="120" endY="-80.0" layoutX="150.0" layoutY="207.0" startX="80" startY="-80"/>
+
+
+    </children>
+</Pane>
